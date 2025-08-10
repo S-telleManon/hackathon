@@ -208,7 +208,16 @@ h1,#textsub{
     margin-top: 15px;
     font-size: 15px;
   }
-
+ /* -------------Footer Page ---------*/
+  footer {
+  background-color: black;    /* adjust color */
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: absolute;
+  top: 1800px;
+  width: 100%;
+}
  /* -------------Login Page ---------*/
 
 .login{
@@ -590,10 +599,10 @@ footer {
     text-align: center;
 
   }
-  #image1{
+  #image1,.image2,.image3{
     display: none;
   }
-#myVideo{
+  #myVideo{
     display: none;
 }
 .textcontainer{

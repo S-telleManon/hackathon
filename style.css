@@ -599,7 +599,7 @@ footer {
     text-align: center;
 
   }
-  #image1,.image2,.image3{
+  #image1,.image2,.image3,#triangle-right{
     display: none;
   }
   #myVideo{
